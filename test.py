@@ -22,4 +22,4 @@ if result.success:
     print(fitted_params)
     print(f(fitted_params))
 else:
-    raise ValueError(result.message)
+    raise ValueError(result.message) 
