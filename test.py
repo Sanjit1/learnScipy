@@ -23,3 +23,12 @@ if result.success:
     print(f(fitted_params))
 else:
     raise ValueError(result.message) 
+#13
+#123
+#135
+#1235
+#1345
+#1357
+#12345 
+#13579
+#1357911
